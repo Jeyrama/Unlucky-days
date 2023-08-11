@@ -21,3 +21,5 @@ function unluckyDays(year){
     .filter(el => el.getDay() === 5)
     .length;
 }
+
+// or
